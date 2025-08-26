@@ -1,4 +1,4 @@
-name: Test AKS build for a pr
+name: Test AKS build for a pr from oxpa
 
 permissions:
   contents: read
